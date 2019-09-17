@@ -2,28 +2,22 @@
 
 ## Project Name
 
-### Author: Student/Group Name
+### Author: Andy Fiedler
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [submission PR](https://github.com/AndyFiedler/andylab-02/pull/1)
+* [travis](https://travis-ci.com/AndyFiedler/andylab-02)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+#### `validator.js`
+##### it validates inputs
 
-###### `foo(thing) -> string`
-Usage Notes or examples
+#### `list.js`
+##### makes a list class and has a bunch of different methods
 
-###### `bar(array) -> array`
-Usage Notes or examples
+#### `vehicle-class.js`
+##### makes a vehicle class with two objects cars and motorcycles with they properties
+
 
 ### Setup
 #### `.env` requirements
