@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/AndyFiedler/andylab-02/pull/1)
-* [travis](http://xyz.com)
+* [travis](https://travis-ci.com/AndyFiedler/andylab-02)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
