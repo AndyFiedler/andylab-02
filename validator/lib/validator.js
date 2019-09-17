@@ -65,22 +65,7 @@ class Validator {
   
     return valid;
   }
-};
-
-/**
- * Based on a set of rules, is the input valid?
- * TODO: Define the rules ... how do we send them in? How do we identify?
- * @param input
- * @param rules
- * @returns {boolean}
- */
-
-
-/**
- * Is this a string?
- * @param input
- * @returns {boolean}
- */
+}
 
 module.exports = Validator;
 
